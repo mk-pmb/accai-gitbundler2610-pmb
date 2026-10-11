@@ -11,6 +11,7 @@ Share a git repo with the Academic Cloud Chat AI.
 
 * "accai" = [☁️ Academic Cloud](https://www.academiccloud.de/) &rarr;
   [💬 Chat AI](https://chat-ai.academiccloud.de/)
+* [Do I need an API key?](accloud/orga/api-key.obtain.md)
 
 
 
@@ -58,7 +59,6 @@ it can do all of the above steps.
 energy on accidental submit, and the risk of unexpected session expiration.
 With the UI as of 2026-10-10, auto-logout disrupts the workflow very harshly.)
 </small>
-
 
 
 
