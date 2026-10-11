@@ -1,0 +1,31 @@
+{ "name": "accai-gitbundler2610-pmb",
+  "version": "0.0.0",
+  "description": "Share a git repo with the Academic Cloud Chat AI.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/accai-gitbundler2610-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/accai-gitbundler2610-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/accai-gitbundler2610-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb",
+    "env": { "browser": true }
+  },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "bash": ">=5.0.0", "node": ">=24.0.0" }
+}
