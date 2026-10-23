@@ -37,6 +37,10 @@ them for your report.
   Strange. If the check is automated, why does it take &asymp;18 hours?
   Anyways, I followed the instructions to contact support,
   so I hope my request will make it to the human review stage soon.
+* Update 2026-10-23: One of the problems with my key request was that my
+  email address for contained a plus character. Some of their systems seem
+  to only cope with boringly plain email addresses. My speculation:
+  Use only characters that are unaffected by `encodeURIComponent`.
 
 
 
